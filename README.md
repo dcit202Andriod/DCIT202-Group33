@@ -1,2 +1,3 @@
 # Platinum Coffee Order App 
 ## A fully functional app for ordering coffee.
+The coffee app has a simple user interface allow users to easily order what they want.
