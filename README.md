@@ -27,3 +27,4 @@ Layout: Frank(frankoappiah) handled the layout of the app, ensuring a user frien
 CLickable buttons : Eyram implemented the functionality for clickable buttons in the app.This allows users to interact with the app by tapping on various buttons to prform spcific actions
 
 Made major significant changes to the interface of the app: Edem
+Increasing count: Daniel added the functionality to increase counts in the app this feature enables users to increase the number of coffee items or other relevant entities in the app.
