@@ -12,7 +12,8 @@ Listed below are each team member's github account and student ID number, respec
 5. eyramampobi - 10977614
 6. elormatefoe - 10981243
 7. itsaileeno - 10983491
-
+8. Rayaaann - 10976281
 
 Features
 SQL functionality: Elorm, 
+Helped with the Design interface of the application and some minor debugging when with regards to adding clickability to the application: Rayan Ahmed Ali
