@@ -22,4 +22,4 @@ Helped with the Design interface of the application and some minor debugging whe
 
 Layout: Frank(frankoappiah)
 
-SQL functionality: Aileen
+SQL functionality: Aileen(itsaileeno)
