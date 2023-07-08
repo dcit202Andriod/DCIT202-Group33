@@ -21,4 +21,4 @@ SQL functionality: Elorm(elormatefoe), Aileen(itsaileeno), Valentina(vokoduah-10
 Helped with the Design interface of the application and some minor debugging when with regards to adding clickability to the application: Rayan Ahmed Ali
 
 Layout: Frank(frankoappiah) handled the layout of the app, ensuring a user friendly and visually appealing interface.
-CLickable buttons : Eyram implemented the functionality for clickable buttons in the app.This allows users to interact
+CLickable buttons : Eyram implemented the functionality for clickable buttons in the app.This allows users to interact with the app by tapping on various buttons to prform spcific actions
