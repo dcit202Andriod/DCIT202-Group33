@@ -1,7 +1,7 @@
 # Platinum Coffee Order App
 
 ### Functionalities of our Project
-* The coffee app has a simple user interface that allows users to easily order what they want.
+* The coffee app has a simple and easy-to navigate user interface that allows users to easily order what they want.
 
 Listed below are each team member's github account and student ID number, respectively.
 
