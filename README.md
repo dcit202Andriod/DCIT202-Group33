@@ -19,7 +19,7 @@ Features
 
 SQL functionality: Elorm(elormatefoe), Aileen(itsaileeno), Collins(Collins1233), Valentina(vokoduah-10986215)
 
-Helped with the Design interface of the application and some minor debugging when with regards to adding clickability to the application: Rayan Ahmed Ali, Appiah Jesse Agyapong Pobi
+Helped with the Design interface of the application and some minor debugging when with regards to adding clickability to the application: Rayan Ahmed Ali, Appiah Jesse Agyapong Pobi.
 
 Layout: Frank(frankoappiah) handled the layout of the app, ensuring a user friendly and visually appealing interface.
 CLickable buttons : Eyram implemented the functionality for clickable buttons in the app.This allows users to interact with the app by tapping on various buttons to prform spcific actions
