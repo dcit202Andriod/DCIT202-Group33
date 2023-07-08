@@ -20,4 +20,4 @@ SQL functionality: Elorm(elormatefoe), Aileen(itsaileeno)
 
 Helped with the Design interface of the application and some minor debugging when with regards to adding clickability to the application: Rayan Ahmed Ali
 
-Layout: Frank(frankoappiah)
+Layout: Frank(frankoappiah) handled the layout of the app, ensuring a user friendly and visually appealing interface.
