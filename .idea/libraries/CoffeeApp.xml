@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="CoffeeApp">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/CoffeeApp.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
