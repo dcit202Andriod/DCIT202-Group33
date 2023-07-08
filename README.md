@@ -21,5 +21,3 @@ SQL functionality: Elorm(elormatefoe),Aileen(itsaileeno)
 Helped with the Design interface of the application and some minor debugging when with regards to adding clickability to the application: Rayan Ahmed Ali
 
 Layout: Frank(frankoappiah)
-
-SQL functionality: 
