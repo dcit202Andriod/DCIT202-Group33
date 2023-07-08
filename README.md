@@ -15,6 +15,8 @@ Listed below are each team member's github account and student ID number, respec
 8. Rayaaann - 10976281
 9. TopKingRanger - 109736221
 10. jesseappiah03 - 10976896
+
+    
 Features
 
 SQL functionality: Elorm(elormatefoe), Aileen(itsaileeno), Collins(Collins1233), Valentina(vokoduah-10986215)
