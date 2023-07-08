@@ -11,6 +11,7 @@ Listed below are each team member's github account and student ID number, respec
 4. dani-osei - 10966043
 5. eyramampobi - 10977614
 6. elormatefoe - 10981243
+7. itsaileeno - 10983491
 
 
 Features
