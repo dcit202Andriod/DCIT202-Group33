@@ -16,10 +16,10 @@ Listed below are each team member's github account and student ID number, respec
 
 Features
 
-SQL functionality: Elorm(elormatefoe)
+SQL functionality: Elorm(elormatefoe),Aileen(itsaileeno)
 
 Helped with the Design interface of the application and some minor debugging when with regards to adding clickability to the application: Rayan Ahmed Ali
 
 Layout: Frank(frankoappiah)
 
-SQL functionality: Aileen(itsaileeno)
+SQL functionality: 
