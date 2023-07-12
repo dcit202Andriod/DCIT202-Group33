@@ -7,7 +7,7 @@ Listed below are each team member's github account and student ID number, respec
 
 1. Collins1233 - 10945788
 2. frankoappiah - 10990607
-3. vokoduah-10986215 - 10986215
+3. vokoduah-10986215
 4. dani-osei - 10966043
 5. eyramampobi - 10977614
 6. elormatefoe - 10981243
